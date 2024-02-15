@@ -19,7 +19,7 @@ You get to decide what you want to build - as long as it meets the technical req
 
 ## Planning & Presentation Requirements
 
-### Planning - Due by Friday October 13, 9:00 EST:
+### Planning - Due by Friday February 16th, 9:00 EST:
     
     - A new Github Repo with your Project's name (DO NOT NAME THE REPO PROJECT2!) with a Readme containing all of your relevant information
     
