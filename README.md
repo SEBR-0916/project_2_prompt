@@ -15,7 +15,7 @@ You get to decide what you want to build - as long as it meets the technical req
 **You will be working individually for this project** designing and coding the app yourself.
 
 
----
+
 
 ## Planning & Presentation Requirements
 
@@ -62,7 +62,7 @@ You will have a maximum of 10 minutes to present your project following these gu
 	
 5. **Q & A + Feedback**
 
----
+
 
 ## Technical Requirements
 
