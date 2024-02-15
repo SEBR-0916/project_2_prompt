@@ -7,7 +7,7 @@
 ## Overview
 
 This second project will be your first adventure into **building a full-stack 
-application.** You'll be **building a Node/Express/MongoDB app** from the ground up yourself.
+application.** You'll be building a Node/Express/MongoDB app from the ground up yourself.
 
 
 You get to decide what you want to build - as long as it meets the technical requirements outlined below.
@@ -20,18 +20,20 @@ You get to decide what you want to build - as long as it meets the technical req
 ## Planning & Presentation Requirements
 
 ### Planning - Due by Friday February 16th, 9:00 EST:
-    
-    - A new Github Repo with your Project's name (DO NOT NAME THE REPO PROJECT2!) with a Readme containing all of your relevant information
-    
-    - An **ERD** list containing an ERD identifying the attributes of each Data Entity (one for each Model and embedded schema). The ERD also needs to diagram relationships between the Entities (1:1, 1:M or M:M)
 
-    -  Wireframe designs for your front end
+    
+    1. A new Github Repo with your Project's name (DO NOT NAME THE REPO PROJECT2!) with a Readme containing all of your relevant information
+    
+    2. An **ERD** list containing an ERD identifying the attributes of each Data Entity (one for each Model and embedded schema). The ERD also needs to diagram relationships between the Entities (1:1, 1:M or M:M)
+
+    3. Wireframe designs for your front end
      
-    -  User Stories in your Readme for what you want your projects to contain
+    4. User Stories in your Readme for what you want your projects to contain
 
-    - MVP and Stretch Goals for your Projects
+    5. MVP and Stretch Goals for your Projects
 
-### Project Presentations - Friday October 20th, 9:00EST :
+
+### Project Presentations - Friday February 23rd, 9:00EST :
 
 You will have a maximum of 10 minutes to present your project following these guidelines:
 
@@ -72,7 +74,6 @@ You will have a maximum of 10 minutes to present your project following these gu
 
 ☐ Have full CRUD on all models across the Back End
 
-☐ At least 1 Additonal Create Update or Delete functionality on models across Front and Back End
 
 ### Optionally, Your App May:
 
@@ -80,10 +81,6 @@ You will have a maximum of 10 minutes to present your project following these gu
 
 
 ☐ Have full CRUD functionality on both front and back end
-
-☐ Implement OAuth and a User Model 
-
-☐ Be **deployed online** (Heroku or Railway).
 
 
 ---
@@ -127,7 +124,7 @@ Lots of the web applications you interact with on a daily basis can provide insp
 
 Some of the best apps are apps that track or manage things of **personal interest to you**:
   
-- Music lesson tracking
+- Family Chores App
 - Soccer team tracker
 - Rock climbing planner
 
@@ -153,8 +150,6 @@ Many simple apps can have their functionality enhanced by implementing the abili
 ---
 ## Asking For Help
 
--  Students will have 5 Tokens to redeem for Help Sessions from Monday 10/16 to Thursday 10/19
--  Each token will get 20 minutes of 1 on 1 help time
 -  Office/TA Hours will continue at the usual times through Project Week
 
 ---
