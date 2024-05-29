@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/QgojyYY.png" width="400">
 
-## SEBR 0116
+## SEBR 0429
 
 # Project 2<br>Node/Express/MongoDB<br>Full-stack Application
 
@@ -19,7 +19,7 @@ You get to decide what you want to build - as long as it meets the technical req
 
 ## Planning & Presentation Requirements
 
-### Planning - Due by Friday February 16th, 9:00 EST:
+### Planning - Due by Friday May 31st, 9:00 EST:
 
     
     1. A new Github Repo with your Project's name (DO NOT NAME THE REPO PROJECT2!) with a Readme containing all of your relevant information
@@ -33,9 +33,9 @@ You get to decide what you want to build - as long as it meets the technical req
     5. MVP and Stretch Goals for your Projects
 
 
-### Project Presentations - Friday February 23rd, 9:00EST :
+### Project Presentations - Friday June 7th, 10:00EST :
 
-You will have a maximum of 10 minutes to present your project following these guidelines:
+You will have 10 minutes to present your project following these guidelines:
 
 1. **Introduce the Project:**
 
@@ -96,8 +96,7 @@ You will have a maximum of 10 minutes to present your project following these gu
   ☐ **Screenshot(s):** A screenshot of your app's landing page and any other screenshots of interest.
   
   ☐ **Technologies Used**: List of the technologies used.
-    
-  ☐ **Getting Started**: Include a link to the deployed app and your Trello board with the project's planning.
+
   
   ☐ **Next Steps**: Planned future enhancements (icebox items).
   
