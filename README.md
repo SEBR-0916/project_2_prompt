@@ -110,8 +110,7 @@ You will have 10 minutes to present your project following these guidelines:
 ## Getting Started
 
 - **Discuss your app idea with an instructor to get their feedback before you dive too deep into user stories and wireframes.**
-- **Prioritize and implement the user stories one at a time** by following the [Guide to Add a Feature to a Web App](guide-to-add-feature-to-web-app.md).
-- **Follow the guidance and concepts in the** [Guide to User-Centric CRUD](guide-to-user-centric-crud.md).
+- **Prioritize and implement the user stories one at a time**
 - **Remember to keep things small and focus on the MVP** – feature creep can doom a project!
 
 ---
