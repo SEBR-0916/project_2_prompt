@@ -32,7 +32,7 @@ You get to decide what you want to build - as long as it meets the technical req
 
     5. MVP and Stretch Goals for your Projects
 
-    6. A Trello Board for your personal schedule and daily goals
+    6. A Trello Board for your personal schedule and daily goals (optional)
 
 
 ### Project Presentations - Friday June 7th, 10:00EST :
