@@ -19,7 +19,7 @@ You get to decide what you want to build - as long as it meets the technical req
 
 ## Planning & Presentation Requirements
 
-### Planning - Due by Friday May 31st, 9:00 EST:
+### Planning - Due by Friday October 18th:
 
     
     1. A new Github Repo with your Project's name (DO NOT NAME THE REPO PROJECT2!) with a Readme containing all of your relevant information
@@ -35,7 +35,7 @@ You get to decide what you want to build - as long as it meets the technical req
     6. A Trello Board for your personal schedule and daily goals (optional)
 
 
-### Project Presentations - Friday June 7th, 10:00EST :
+### Project Presentations - Friday October 25th :
 
 You will have 10 minutes to present your project following these guidelines:
 
