@@ -148,9 +148,12 @@ So much of the Internet is CRUD apps!
 Many simple apps can have their functionality enhanced by implementing the ability of users to comment on, and/or like/favorite items. 
 
 ---
-## Asking For Help
-
--  Office/TA Hours will continue at the usual times through Project Week
+## Asking for Help
+- Throughout the week, we will have Breakout Rooms open for different parts of our project and code (Axios calls, Game Logic, DOM Manipulation, Styling...), you are highly recommended to work with your classmates sharing resources and debugging issues together to build up your professional ethos
+- Your instructors will have Help Breakout Rooms open each day, with a Help Queue on Slack put up
+- All students will recieve 5 Help Tokens, each Token can be redeemed for 15 minutes of 1 on 1 time with the instructor team to help you
+- Submissions onto the Help Queue must have a detailed explanation of what your issue is, a screenshot of your error if you would like, and links to resources you have previously tried to work with - simply saying "I need help" is not acceptable
+- Office Hours will be open during project week for additional help during this time!
 
 ---
 ## Plagiarism
